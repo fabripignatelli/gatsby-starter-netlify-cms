@@ -2,7 +2,7 @@
 templateKey: index-page
 title: Questa è una prova
 image: /img/home-jumbotron.jpg
-heading: Great coffee with a conscience
+heading: Prov 1
 subheading: Support sustainable farming while enjoying a cup
 mainpitch:
   title: Why Kaldi
