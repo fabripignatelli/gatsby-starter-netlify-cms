@@ -5,7 +5,7 @@ image: /img/home-jumbotron.jpg
 heading: Prov 1
 subheading: Support sustainable farming while enjoying a cup
 mainpitch:
-  title: Why Kaldi
+  title: PerchèKaldi
   description: >
     Kaldi is the coffee store for everyone who believes that great coffee
     shouldn't just taste good, it should do good too. We source all of our beans
